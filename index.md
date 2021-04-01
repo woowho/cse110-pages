@@ -6,7 +6,7 @@
 
 Hello, my name is Alex. I love CS, I love skiing, and I love [Github](github.com).
 
-I also love my website: [Website][#tasks]
+I also love my website: [Website](#introduction)
 
 Here is a picture of a puppy if you ever feel depressed. 
 
