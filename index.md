@@ -8,7 +8,9 @@ Hello, my name is Alex. I love CS, I love skiing, and I love [Github](github.com
 
 I also love my website: [Website][#tasks]
 
-Here is a picture of a puppy if you ever feel depressed. ![Puppy](./puppy.jpg)
+Here is a picture of a puppy if you ever feel depressed. 
+
+![Puppy](./puppy.jpg)
 
 I love *spagetti* **western**, and a range of other ~~films~~.
 
